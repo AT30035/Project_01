@@ -1,0 +1,35 @@
+* {
+    font-family: sans-serif;
+    background-color: white;
+  }
+
+  p {
+    color: grey;
+    font-size: small;
+  }
+
+  ol,
+  ul {
+    font-size: small;
+    color: grey;
+  }
+
+  div {
+    font-size: small;
+    color: #70b6d5;
+    padding: 20px;
+    line-height: 20px;
+    border: 1px solid grey;
+  }
+
+  span {
+    font-size: small;
+  }
+
+  b {
+    margin-right: 0px;
+  }
+
+  h4 {
+    color: grey;
+  }
